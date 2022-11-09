@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap');
+
+:root {
+	font-family: Nunito;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.5;
+	letter-spacing: normal;
+	--primary-color: #ffffff;
+	--header-height: 64px;
+	--dark-text-color: #110f28;
+	--green: #79b851;
+}
+
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	overflow-y: hidden;
+	background-color: var(--primary-color);
+}
+
+html {
+	height: 100%;
+}
